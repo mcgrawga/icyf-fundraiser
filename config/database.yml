@@ -17,11 +17,10 @@
 development:
   adapter: postgresql
   encoding: unicode
-  database: ncaa_development
+  database: icyf_development
   pool: 5
-  host: localhost
-  username: mcgrawga
-  password: Red1ranger*	
+  username: icyf
+  password: icyf	
 
   # Connect on a TCP socket. Omitted by default since the client uses a
   # domain socket that doesn't need configuration. Windows does not have
@@ -47,8 +46,7 @@ development:
 test:
   adapter: postgresql
   encoding: unicode
-  database: ncaa_test
+  database: icyf_test
   pool: 5
-  host: localhost
-  username: mcgrawga
-  password: Red1ranger*
+  username: icyf
+  password: icyf
