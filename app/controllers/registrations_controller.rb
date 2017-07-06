@@ -1,12 +1,15 @@
 class RegistrationsController < Devise::RegistrationsController
 
   def create
-		return redirect_to staticpages_nomoresignups_path unless !past_cutoffdate?
-		if pool_over_max_player_limit
-			redirect_to staticpages_overmaxplayers_path
-		else
-			super
-		end
+	super
+    if resource.save
+      begin
+        resource.is_paid = 1
+        resource.save
+      rescue => e
+        resource.destroy
+      end
+    end
   end
 
   protected

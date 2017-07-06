@@ -13,5 +13,6 @@ class Player < User
 	validates :pool_name, :presence => true
 	validates :first_name, :presence => true
 	validates :last_name, :presence => true
-	validates_with PoolValidator
+  validates :email, :presence => true
+	#validates_with PoolValidator
 end

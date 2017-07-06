@@ -1,7 +1,7 @@
 class BracketsController < ApplicationController
 	before_filter :authorize_master_bracket, :only => [:edit_master, :update_master]
 	before_filter :check_for_login
-	before_filter :pool_paid_up
+	#before_filter :pool_paid_up
 
   def edit
 		@master_bracket = Bracket.find_by_id(0)
