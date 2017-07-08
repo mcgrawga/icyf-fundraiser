@@ -1,14 +1,11 @@
 class StandingsController < ApplicationController
 	before_filter :check_for_login
 	before_filter :check_for_master_bracket
-	before_filter :pool_paid_up
+	#before_filter :pool_paid_up
 
   def show
 		if (player_signed_in?)
 			@pool_name = current_player.pool_name
-		end
-		if (admin_signed_in?)
-			@pool_name = current_admin.pool_name
 		end
 		players = Player.where "lower(pool_name) = lower(?)", @pool_name
 		@standings = calc_standings players
