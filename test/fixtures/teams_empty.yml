@@ -1,0 +1,387 @@
+
+# SEAT ORDER  1,16,8,9,5,12,4,13,6,11,3,14,7,10,2,15]
+
+
+team_1:
+  id: 1
+  name: 
+  record: 
+  seat: 1
+
+team_2:
+  id: 2
+  name: 
+  record: 
+  seat: 16
+
+team_3:
+  id: 3
+  name: 
+  record: 
+  seat: 8
+
+team_4:
+  id: 4
+  name: 
+  record: 
+  seat: 9
+
+team_5:
+  id: 5
+  name: 
+  record: 
+  seat: 5
+
+team_6:
+  id: 6
+  name: 
+  record: 
+  seat: 12
+
+team_7:
+  id: 7
+  name: 
+  record: 
+  seat: 4
+
+team_8:
+  id: 8
+  name: 
+  record: 
+  seat: 13
+
+team_9:
+  id: 9
+  name: 
+  record: 
+  seat: 6
+
+team_10:
+  id: 10
+  name: 
+  record: 
+  seat: 11
+
+team_11:
+  id: 11
+  name: 
+  record: 
+  seat: 3
+
+team_12:
+  id: 12
+  name: 
+  record: 
+  seat: 14
+
+team_13:
+  id: 13
+  name: 
+  record: 
+  seat: 7
+
+team_14:
+  id: 14
+  name: 
+  record: 
+  seat: 10
+
+team_15:
+  id: 15
+  name: 
+  record: 
+  seat: 2
+
+team_16:
+  id: 16
+  name: 
+  record: 
+  seat: 15
+
+team_17:
+  id: 17
+  name: 
+  record: 
+  seat: 1
+
+team_18:
+  id: 18
+  name: 
+  record: 
+  seat: 16
+
+team_19:
+  id: 19
+  name: 
+  record: 
+  seat: 8
+
+team_20:
+  id: 20
+  name: 
+  record: 
+  seat: 9
+
+team_21:
+  id: 21
+  name: 
+  record: 
+  seat: 5
+
+team_22:
+  id: 22
+  name: 
+  record: 
+  seat: 12
+
+team_23:
+  id: 23
+  name: 
+  record: 
+  seat: 4
+
+team_24:
+  id: 24
+  name: 
+  record: 
+  seat: 13
+
+team_25:
+  id: 25
+  name: 
+  record: 
+  seat: 6
+
+team_26:
+  id: 26
+  name: 
+  record: 
+  seat: 11
+
+team_27:
+  id: 27
+  name: 
+  record: 
+  seat: 3
+
+team_28:
+  id: 28
+  name: 
+  record: 
+  seat: 14
+
+team_29:
+  id: 29
+  name: 
+  record: 
+  seat: 7
+
+team_30:
+  id: 30
+  name: 
+  record: 
+  seat: 10
+
+team_31:
+  id: 31
+  name: 
+  record: 
+  seat: 2
+
+team_32:
+  id: 32
+  name: 
+  record: 
+  seat: 15
+
+team_33:
+  id: 33
+  name: 
+  record: 
+  seat: 1
+
+team_34:
+  id: 34
+  name: 
+  record: 
+  seat: 16
+
+team_35:
+  id: 35
+  name: 
+  record: 
+  seat: 8
+
+team_36:
+  id: 36
+  name: 
+  record: 
+  seat: 9
+
+team_37:
+  id: 37
+  name: 
+  record: 
+  seat: 5
+
+team_38:
+  id: 38
+  name: 
+  record: 
+  seat: 12
+
+team_39:
+  id: 39
+  name: 
+  record: 
+  seat: 4
+
+team_40:
+  id: 40
+  name: 
+  record: 
+  seat: 13
+
+team_41:
+  id: 41
+  name: 
+  record: 
+  seat: 6
+
+team_42:
+  id: 42
+  name: 
+  record: 
+  seat: 11
+
+team_43:
+  id: 43
+  name: 
+  record: 
+  seat: 3
+
+team_44:
+  id: 44
+  name: 
+  record: 
+  seat: 14
+
+team_45:
+  id: 45
+  name: 
+  record: 
+  seat: 7
+
+team_46:
+  id: 46
+  name: 
+  record: 
+  seat: 10
+
+team_47:
+  id: 47
+  name: 
+  record: 
+  seat: 2
+
+team_48:
+  id: 48
+  name: 
+  record: 
+  seat: 15
+
+team_49:
+  id: 49
+  name: 
+  record: 
+  seat: 1
+
+team_50:
+  id: 50
+  name: 
+  record: 
+  seat: 16
+
+team_51:
+  id: 51
+  name: 
+  record: 
+  seat: 8
+
+team_52:
+  id: 52
+  name: 
+  record: 
+  seat: 9
+
+team_53:
+  id: 53
+  name: 
+  record: 
+  seat: 5
+
+team_54:
+  id: 54
+  name: 
+  record: 
+  seat: 12
+
+team_55:
+  id: 55
+  name: 
+  record: 
+  seat: 4
+
+team_56:
+  id: 56
+  name: 
+  record: 
+  seat: 13
+
+team_57:
+  id: 57
+  name: 
+  record: 
+  seat: 6
+
+team_58:
+  id: 58
+  name: 
+  record: 
+  seat: 11
+
+team_59:
+  id: 59
+  name: 
+  record: 
+  seat: 3
+
+team_60:
+  id: 60
+  name: 
+  record: 
+  seat: 14
+
+team_61:
+  id: 61
+  name: 
+  record: 
+  seat: 7
+
+team_62:
+  id: 62
+  name: 
+  record: 
+  seat: 10
+
+team_63:
+  id: 63
+  name: 
+  record: 
+  seat: 2
+
+team_64:
+  id: 64
+  name: 
+  record: 
+  seat: 15
